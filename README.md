@@ -29,10 +29,11 @@ Complete initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Req
 ```python
 
 # Examples of News Title and News paragraph text:
-news_title = "NASA's Perseverance Mars Rover Gets Its Wheels and Air Brakes"
+news_title = "NASA Administrator Statement on Moon to Mars Initiative, FY 2021 Budget"
 
-news_p = "After the rover was shipped from JPL to Kennedy Space Center, the team is getting closer to finalizing the spacecraft for launch later this summer."
+news_p = "Jim Bridenstine addresses NASA's ambitious plans for the coming years, including Mars Sample Return."
 ```
+![image](https://user-images.githubusercontent.com/99145651/174455016-541abdda-d558-4092-b91e-5de403c03fbf.png)
 
 ### JPL Mars Space Images—Featured Image
 
@@ -53,6 +54,9 @@ news_p = "After the rover was shipped from JPL to Kennedy Space Center, the team
 * Visit the [Mars Facts webpage](https://galaxyfacts-mars.com) and use Pandas to scrape the table containing facts about the planet including diameter, mass, etc.
 
 * Use Pandas to convert the data to a HTML table string.
+
+![image](https://user-images.githubusercontent.com/99145651/174455211-08cc3446-bb7a-481a-a0cb-ccf5f9b6e51d.png)
+
 
 ### Mars Hemispheres
 
